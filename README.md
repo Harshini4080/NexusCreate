@@ -90,7 +90,7 @@ NexusCreate is a full-stack AI-powered web application that helps creators gener
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/nexuscreate.git
+git clone https://github.com/Harshini4080/NexusCreate.git
 
 ```
 Navigate into the project:
