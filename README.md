@@ -46,7 +46,11 @@ NexusCreate is a full-stack AI-powered web application that helps creators gener
 - SEO-friendly blog title generator 
 - Rich text editor
 - Save & export functionality
-  !("<img width="1308" height="737" alt="home" src="https://github.com/user-attachments/assets/11e578ef-5f44-4491-b391-e8ed755819ac" />
+  !("<img width="1883" height="797" alt="Screenshot 2026-02-26 105301" src="https://github.com/user-attachments/assets/a9bced2b-d15d-4e85-8aae-ce58246e9fa6" />
+")
+!("<img width="1893" height="708" alt="Screenshot 2026-02-26 105336" src="https://github.com/user-attachments/assets/5c7d23c3-c44a-403a-bfb8-806ca1060fe3" />
+
+
 ")
 
 ###  AI Image Tools
@@ -54,30 +58,29 @@ NexusCreate is a full-stack AI-powered web application that helps creators gener
 - Background removal (Remove.bg API)
 - Object removal (AI inpainting)
 - Transparent PNG download
-![(<img width="1330" height="736" alt="Insurance" src="https://github.com/user-attachments/assets/5afde535-86c7-4f45-8c95-a449d83dfca6" />
+![(<![(<<img width="1871" height="807" alt="Screenshot 2026-02-26 105419" src="https://github.com/user-attachments/assets/67340ca4-1df9-487e-9588-c9cce98dc63f" />
+ /> 
+![(<img width="1871" height="743" alt="Screenshot 2026-02-26 105815" src="https://github.com/user-attachments/assets/068e69a0-8660-464e-97cd-278bd72bc47c" />
+ />
+![(<img width="1890" height="760" alt="Screenshot 2026-02-26 105748" src="https://github.com/user-attachments/assets/e4ee8f45-5c85-497d-abb1-f97fddf9fe3c" />
+
 )
 
 ###  Resume Reviewer
 - Upload PDF/DOCX resume
-- ATS score generation
 - AI-based improvement suggestions
 - Bullet-point rewriting
-![(<img width="1320" height="736" alt="Loans" src="https://github.com/user-attachments/assets/f2e4f684-2522-48a0-8516-c6ad1c9ffa45" />
+![(<<img width="1872" height="779" alt="Screenshot 2026-02-26 105906" src="https://github.com/user-attachments/assets/2665a925-c4b2-4f54-8c15-85e48299116e" />
+ />
 )
 
-###  Community Hub
-- Share creations
-- Like & comment on posts
-- Infinite scrolling feed
-- Admin moderation support
-![(<img width="1323" height="741" alt="Money-Transfer" src="https://github.com/user-attachments/assets/aee75d8f-eeaf-4a62-861c-199e2a9131a9" />
-)
 
 ### User Dashboard
 - View all saved projects
 - Track AI credit usage
 - Manage profile & posts
-![(<img width="1327" height="733" alt="Recharge-Bills" src="https://github.com/user-attachments/assets/b86dfc2b-f7f8-477e-9c27-0c9b20141e53" />
+![(<img width="1887" height="902" alt="Screenshot 2026-02-26 105224" src="https://github.com/user-attachments/assets/a36acf03-d4c3-4a0c-bd19-98f927b246a4" />
+
 )
 
 ---
